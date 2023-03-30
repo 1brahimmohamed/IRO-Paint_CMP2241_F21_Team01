@@ -1,4 +1,4 @@
-#include "figure.h"
+#include "src/shapes/figure.h"
 #include <QPainter>
 
 

@@ -1,4 +1,4 @@
-#include "painttable.h"
+#include "src/drawing/painttable.h"
 
 PaintTable::PaintTable()
 {

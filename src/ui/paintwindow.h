@@ -4,8 +4,9 @@
 #include <QMainWindow>
 #include <QTimer>
 #include <QResizeEvent>
-#include "paintscene.h"
-#include "messagedialog.h"
+
+#include "src/drawing/paintscene.h"
+#include "src/ui/messagedialog.h"
 
 
 namespace Ui {

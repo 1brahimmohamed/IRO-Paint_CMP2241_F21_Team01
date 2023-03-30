@@ -1,4 +1,4 @@
-#include "circle.h"
+#include "src/shapes/circle.h"
 #include <QPainter>
 #include <QtMath>
 

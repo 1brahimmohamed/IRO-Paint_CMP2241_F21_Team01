@@ -2,9 +2,9 @@
 #define COMMANDS_H
 
 #include <QUndoCommand>
-#include "figure.h"
-#include "paintscene.h"
 #include <QTableWidget>
+#include "src/shapes/figure.h"
+#include "src/drawing/paintscene.h"
 
 
 class AddCommand : public QUndoCommand

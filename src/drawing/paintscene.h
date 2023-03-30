@@ -7,7 +7,7 @@
 #include <QGraphicsView>
 #include <QTableWidget>
 
-#include "figure.h"
+#include "src/shapes/figure.h"
 
 
 

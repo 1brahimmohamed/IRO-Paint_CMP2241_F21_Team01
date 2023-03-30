@@ -1,4 +1,4 @@
-#include "about.h"
+#include "src/ui/about.h"
 #include "ui_about.h"
 
 

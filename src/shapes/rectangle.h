@@ -3,7 +3,7 @@
 
 #include <QObject>
 #include <QGraphicsItem>
-#include "figure.h"
+#include "src/shapes/figure.h"
 
 
 class Rectangle : public Figure

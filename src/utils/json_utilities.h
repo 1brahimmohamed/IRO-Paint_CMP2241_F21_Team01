@@ -3,14 +3,14 @@
 
 #include <QJsonObject>
 #include <QString>
-#include "paintscene.h"
-#include "figure.h"
 #include <QFile>
 #include <QFileDialog>
 #include <QPointF>
 #include <QJsonDocument>
 #include <QJsonObject>
 
+#include "src/drawing/paintscene.h"
+#include "src/shapes/figure.h"
 
 class json_utilities
 {

@@ -1,7 +1,6 @@
-#include "mainwindow.h"
 #include <QApplication>
-#include "welcomewindow.h"
-#include "messagedialog.h"
+#include "src/ui/welcomewindow.h"
+#include "src/ui/messagedialog.h"
 
 
 int main(int argc, char *argv[])

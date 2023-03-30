@@ -1,11 +1,11 @@
-#include "json_utilities.h"
 #include <QJsonArray>
-#include "rectangle.h"
-#include "circle.h"
-#include "line.h"
-#include "triangle.h"
-#include "painttable.h"
-#include "commands.h"
+#include "src/utils/json_utilities.h"
+#include "src/shapes/rectangle.h"
+#include "src/shapes/circle.h"
+#include "src/shapes/line.h"
+#include "src/shapes/triangle.h"
+#include "src/drawing/painttable.h"
+#include "src/utils/commands.h"
 
 
 /*

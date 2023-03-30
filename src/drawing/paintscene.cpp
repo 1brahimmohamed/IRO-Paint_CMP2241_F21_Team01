@@ -1,9 +1,9 @@
-#include "paintscene.h"
-#include "circle.h"
-#include "triangle.h"
-#include "rectangle.h"
-#include "line.h"
-#include "commands.h"
+#include "src/drawing/paintscene.h"
+#include "src/shapes/circle.h"
+#include "src/shapes/triangle.h"
+#include "src/shapes/rectangle.h"
+#include "src/shapes/line.h"
+#include "src/utils/commands.h"
 #include <QVector>
 
 

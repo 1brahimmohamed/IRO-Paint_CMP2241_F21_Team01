@@ -4,7 +4,7 @@
 #include <QTableWidget>
 #include <QVector>
 
-#include "figure.h"
+#include "src/shapes/figure.h"
 
 
 class PaintTable

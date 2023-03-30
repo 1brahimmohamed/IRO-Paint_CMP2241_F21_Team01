@@ -1,4 +1,4 @@
-#include "triangle.h"
+#include "src/shapes/triangle.h"
 #include <QPainter>
 
 

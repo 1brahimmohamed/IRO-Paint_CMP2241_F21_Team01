@@ -2,7 +2,7 @@
 #define WELCOMEWINDOW_H
 
 #include <QMainWindow>
-#include "paintwindow.h"
+#include "src/ui/paintwindow.h"
 
 
 namespace Ui {

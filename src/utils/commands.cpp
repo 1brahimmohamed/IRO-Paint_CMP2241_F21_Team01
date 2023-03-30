@@ -1,6 +1,6 @@
-#include "commands.h"
 #include <QGraphicsScene>
-#include "painttable.h"
+#include "src/utils/commands.h"
+#include "src/drawing/painttable.h"
 
 
 

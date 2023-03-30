@@ -3,13 +3,14 @@
 #include <QPropertyAnimation>
 #include <QSequentialAnimationGroup>
 #include <QFontDatabase>
-#include "paintwindow.h"
-#include "ui_paintwindow.h"
-#include "json_utilities.h"
-#include "painttable.h"
-#include "about.h"
-#include "commands.h"
 #include <QRandomGenerator>
+
+#include "ui_paintwindow.h"
+#include "src/ui/paintwindow.h"
+#include "src/utils/json_utilities.h"
+#include "src/drawing/painttable.h"
+#include "src/ui/about.h"
+#include "src/utils/commands.h"
 
 
 

@@ -1,4 +1,4 @@
-#include "welcomewindow.h"
+#include "src/ui/welcomewindow.h"
 #include "ui_welcomewindow.h"
 #include <QFileDialog>
 

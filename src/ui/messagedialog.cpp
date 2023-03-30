@@ -1,7 +1,7 @@
-#include "messagedialog.h"
+#include "src/ui/messagedialog.h"
 #include "ui_messagedialog.h"
+#include "src/utils/json_utilities.h"
 #include <QFileDialog>
-#include "json_utilities.h"
 
 
 messageDialog::messageDialog(QString message,QString LeftText,QString RightText,QWidget *parent) :

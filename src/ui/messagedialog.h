@@ -2,8 +2,8 @@
 #define MESSAGEDIALOG_H
 
 #include <QDialog>
-#include "paintwindow.h"
-#include<QMouseEvent>
+#include <QMouseEvent>
+#include "src/ui/paintwindow.h"
 
 
 namespace Ui {
